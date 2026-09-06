@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Libraries/Bluetooth/Bluetooth.csproj" />
+  <Project Path="Libraries/CriticalData/CriticalData.csproj" />
+  <Project Path="Libraries/FileSystem/FileSystem.csproj" />
+  <Project Path="Lights/Lights.Cli/Lights.Cli.csproj" />
+  <Project Path="Lights/Lights.Core/Lights.Core.csproj" />
+</Solution>
